@@ -5,14 +5,14 @@
 // tinyFriend
 
 
-// 1 No. function name (own thinking solution)
+// 1 No Question Ans. function name (own thinking solution)
 
 function feetToMile(feet){
 	var mile = feet / 5280;
 	return mile;
 }
 
-// 2 No. function name (own thinking solution)
+// 2 No Question Ans.. function name (own thinking solution)
 
 function woodCalculator(chair,table,bed) {
 	
@@ -23,7 +23,7 @@ function woodCalculator(chair,table,bed) {
 	return totalWoodCubic;
 }
 
-// 3 No. function name (own thinking + google help solution but i am not satisfied)
+// 3 No Question Ans.. function name (own thinking + google help solution but i am not satisfied)
 
 function tinyFriend(friends) {
 	var min = friends[0].length;
